@@ -1,7 +1,7 @@
 # QueroTrabalhar
 
 
-# Ok, quero trabalhar na Corplan Tecnologia! Como eu faço?
+# Ok, quero trabalhar na 2Adv Soluções! Como eu faço?
 
 Se você se convenceu que quer trabalhar na Corplan Tecnologia:
 
