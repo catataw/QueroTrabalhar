@@ -1,5 +1,8 @@
-# QueroTrabalhar
+# Faça parte da família 2ADV
 
+Primeira e unica startup lawtecn com desafio de unificar a justiça brasileira, precisamos do seu talento.
+
+Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver desafios de escalabilidade e performance. Trabalhamos com diversas tecnologias e  acreditamos na filosofia "release early, release often". Aqui não tem embromação. 🔪💀
 
 # Ok, quero trabalhar na 2Adv Soluções! Como eu faço?
 
