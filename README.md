@@ -3,14 +3,14 @@
 
 # Ok, quero trabalhar na 2Adv Soluções! Como eu faço?
 
-Se você se convenceu que quer trabalhar na Corplan Tecnologia:
+Se você se convenceu que quer trabalhar na 2Adv:
 
 * Forka esse projeto;
 * No seu fork, preencha o arquivo cv.mkd com seu currículo;
 * Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
 * Faça um pull request.
 * Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! 
-Encaminhe o seu CV (ainda especificando a vaga) para [contato@corplantecnologia.com.br](contato@corplantecnologia.com.br).
+Encaminhe o seu CV (ainda especificando a vaga) para [contato@2adv.com.br](contato@2adv.com.br).
 
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
