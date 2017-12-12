@@ -9,11 +9,10 @@ Procuramos pessoas inteligentes e ágeis como você para nos ajudar a resolver d
 
 Se você se convenceu que quer trabalhar na 2Adv:
 
-* Forka esse projeto;
-* No seu fork, preencha o arquivo cv.mkd com seu currículo;
+* Abre um issues
+* No seu issue, preencha o arquivo cv.mkd com seu currículo;
 * Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
-* Faça um pull request.
-* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! 
+* Caso você tenha alguma restrição em relação a enviar um issues publicamente, não tem problema! 
 Encaminhe o seu CV (ainda especificando a vaga) para [contato@2adv.com.br](contato@2adv.com.br).
 
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
